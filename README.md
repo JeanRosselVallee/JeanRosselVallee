@@ -1,36 +1,51 @@
-####      Big Data Engineer Ingénieur Big Data
------
-* [jean.vallee@gmx.fr](mailto:jean.vallee@gmx.fr) 
-* [LinkedIn](https://www.linkedin.com/in/jean-vallee-big-data/?locale=fr_FR)
+<div style="display:flex">
+    <h1>Jean Vallee - Data Engineer                                        </h1>
+    <!-- Contact links -->
+    <a href="mailto:jean.vallee@gmx.fr">
+        <img src="https://img.icons8.com/?size=100&id=OumT4lIcOllS" width=50%> 
+    </a>
+    <a href="https://www.linkedin.com/in/jean-vallee-big-data/?locale=fr_FR">
+        <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg" width=50%>
+    </a>
+</div>
 
-![Image](./DataViz/sunburst/img/sunburst.gif)
 
-_View Skills
-------------
+## Skills
 
-[View more ...](DataViz/sunburst/sunburst.html)
+<!-- Sunburst Chart -->
+<div style="display:flex">
+    <div>
+        Technical Skills: 
+        <b>Big Data, Visualisation, NoSQL, Programming</b>
+        <br>
+        <img src="https://skillicons.dev/icons?i=aws,gcp,docker,python">
+        <img src="https://simpleicons.dev/icons?icons=jupyter,talend&theme=light">
+        <br><br>
+        Soft Skills: 
+        <b>Problem Solving, Continuous Adaptability, Team Work, Clear Communication</b>
+        <br><br>
+        Try this <a href="https://jeanrosselvallee.github.io/DataViz/sunburst/sunburst.html?flush_cache=true">interactive chart</a> of skills grouped by fields ...
+    </div>
+    <img src="https://jeanrosselvallee.github.io/DataViz/sunburst/img/sunburst.gif" width=30%)>
+</div>
 
-### Technical Skills
+## My story
 
-#### Big Data, Visualisation, NoSQL, Programming Big Data, visualisation, NoSQL, programmation
+<div style="display:flex">
+    <div>
+          I was born in <b>Peru</b> and came to <b>France</b> to pursue studies in higher education. <br>
+          I have worked for <b>3 IT services companies</b> where I joined different teams. Now I would like to work in innovative and complex projects in <b>Data</b> and also to offer my help on making tasks easier to perform by automating them. <br>
+          I am motivated by <b>designing, programming & automating</b>, and love to find optimal solutions, to continuously learn and improve my skills.
+    </div>
+    <img src="https://jeanrosselvallee.github.io/img/The Data Lab MSc - Placement Stories-JV12-2.gif" width=45%>
+</div>
 
-![](img/The Data Lab MSc - Placement Stories-JV12-2.gif)
 
-#####   My story
+## Hobbies             <h1>🏓 🏃 🏊 🥊 🥾 🏡</h1>
+  To counter-balance the sedentary office work, I like to practice dynamic sports such as running and martial arts. In my leisure time, I like to go out for a walk with my family or to work in my garden and in the renovation of my house.
 
- I was born in **Peru** and came to France to pursue studies in higher education.  
-  I have worked for **3 IT services companies** where I joined different teams. Now I would like to work in innovative and complex projects in **Big Data** and also to offer my help on making tasks easier to perform by automating them.  
-  I am motivated by **programing**, and love to find optimal solutions, to continuously learn and improve my skills.
 
-#####   My hobbies Personnel
-
-🏓🏃🏊🥊🥾🏡
-------------
-
- To counter-balance the sedentary office work, I like to practice dynamic sports such as running and martial arts.  
-  In my leisure time, I like to go out for a walk with my family or to work in my garden and in the renovation of my house.
-
-#####   Education
+## Education
 
 **2020-2021**  
 [Big Data Consultant Consultant Big Data  ](https://www.m2iformation.fr/actualite/formation-big-data-intelligence-artificielle-300919/)M2I Formation, Montpellier
@@ -45,20 +60,26 @@ _View Skills
 [Postgraduate Engineer degree Diplôme d'ingénieur  ](https://www.ece.fr/ecole-ingenieur/ece-paris/)ECE – Paris
 
 
-#####   Employment 
-![](img/capgemini.svg)  ![](img/gfi.png)
+## Employment 
+<img src="https://jeanrosselvallee.github.io/img/capgemini.svg" width=10%>
+        
+<img src="https://jeanrosselvallee.github.io/img/gfi.png" width=5%>
+<br><br>
 
 **2018-2019**  
-IT Consultancy ESN [GFI  ](https://www.linkedin.com/company/gfiworld/)Web DEVELOPPER
+IT Consultancy ESN [GFI](https://www.linkedin.com/company/gfiworld/)Web DEVELOPPER
 
 **2016**  
-Internship at Stage chez [Waracle  ](https://waracle.com/locations/dundee/)Data Viz DEVELOPPER
+Internship at [Waracle](https://waracle.com/locations/dundee/)Data Viz DEVELOPPER
 
 **2013-2015**  
 IT Consultancy ESN [Uniware](https://www.linkedin.com/company/uniware-global-services/) Versatile CONSULTANT
 
 **2011**  
-Internship at Stage chez [Augeo  ](https://www.augeo.com/fr/produits#section-planzone)Javascript DEVELOPPER
+Internship at [Augeo](https://www.augeo.com/fr/produits#section-planzone)Javascript DEVELOPPER
 
 **1998-2009**  
 IT Consultancy ESN [Cap Gemini](https://www.linkedin.com/company/capgemini/) Versatile CONSULTANT
+
+
+      
