@@ -39,6 +39,9 @@
 
 ||Diploma / Certificate|School|
 |--|--|--|
+|**2026** | [Data Engineering](https://blent.ai/formation/data-engineer)|Blent, Paris|
+|**2025** | [Algorithmic Trading](https://www.iiqf.org/courses/certificate-program-algorithmic-trading.html)|IIQF, India|
+|**2024** | [Data Scientist](https://openclassrooms.com/fr/paths/793-data-scientist)|OpenClasrooms|
 |**2021** | [Big Data Consultant](https://www.m2iformation.fr/actualite/formation-big-data-intelligence-artificielle-300919/)|M2I Formation, Montpellier|
 |**2016** | [MSc Big Data Engineering  ](https://www.dundee.ac.uk/postgraduate/data-engineering) | Dundee University, Scotland|
 |**2003** | [Post-Masters Certificate in Distributed Computer Systems](https://www.imt-atlantique.fr/fr/documents/fiche-mastere-specialise-ingenierie-des-systemes-informatiques-communicants) | IMT Atlantique – Brest|
@@ -48,8 +51,8 @@
     Employment 
     <div align=right>
         <img src="https://jeanrosselvallee.github.io/img/capgemini.svg" width=10%>        
-        <img src="https://jeanrosselvallee.github.io/img/gfi.png" width=5%>
-        <img src="https://jeanrosselvallee.github.io/img/virtualcockpit_logo.png" width=8%>
+        <img src="https://jeanrosselvallee.github.io/img/gfi.png" width=5%>        
+        <img src="https://jeanrosselvallee.github.io/img/virtualcockpit_logo.png" width=8%  style="background:lightgray;">
     </div>
 </h2>
 
