@@ -18,13 +18,13 @@
 
 |||
 |---|---|
-|<b>Technical Skills:</b> | Big Data, Visualisation, NoSQL, Programming<br><br><img src="https://skillicons.dev/icons?i=aws,gcp,docker,python"><img src="https://simpleicons.dev/icons?icons=jupyter,talend&theme=light">|
-|<b>Soft Skills:</b> |Problem Solving, Continuous Adaptability, Team Work, Clear Communication|
+|**Technical Skills:** | Big Data, Visualisation, NoSQL, Programming<br><br><img src="https://skillicons.dev/icons?i=aws,gcp,docker,python"><img src="https://simpleicons.dev/icons?icons=jupyter,talend&theme=light">|
+|**Soft Skills:** |Problem Solving, Continuous Adaptability, Team Work, Clear Communication|
 
 <h2>My story</h2>
-  I was born in <b>Peru</b> and came to <b>France</b> to pursue studies in higher education. <br>
-  I have worked for <b>3 IT services companies</b> where I joined different teams. Now I would like to work in innovative and complex projects in <b>Data</b> and also to offer my help on making tasks easier to perform by automating them. <br>
-  I am motivated by <b>designing, programming & automating</b>, and love to find optimal solutions, to continuously learn and improve my skills.
+  I was born in **Peru** and came to **France** to pursue studies in higher education. <br>
+  I have worked for **3 IT services companies** where I joined different teams. Now I would like to work in innovative and complex projects in **Data** and also to offer my help on making tasks easier to perform by automating them. <br>
+  I am motivated by **designing, programming & automating**, and love to find optimal solutions, to continuously learn and improve my skills.
 
 <h2>
     Hobbies
@@ -52,13 +52,10 @@
     </div>
 </h2>
 
-||Company|Role|
-|--|--|--|
-|**2018-2019** | IT Consultancy ESN [GFI](https://www.linkedin.com/company/gfiworld/) | Web DEVELOPPER|
-|**2016** | Internship at [Waracle](https://waracle.com/locations/dundee/) | Data Viz DEVELOPPER|
-|**2013-2015**  | IT Consultancy ESN [Uniware](https://www.linkedin.com/company/uniware-global-services/) | Versatile CONSULTANT|
-|**2011**  | Internship at [Augeo](https://www.augeo.com/fr/produits#section-planzone) | Javascript DEVELOPPER|
-|**1998-2009** | IT Consultancy ESN [Cap Gemini](https://www.linkedin.com/company/capgemini/) | Versatile CONSULTANT|
+||Company|Role|Tasks|
+|--|--|--|--|
+|**2021-2023** | BI Consultancy Startup [Virtual Cockpit](https://www.virtual-cockpit.fr/) | **Data Expert**|<br>• **PowerBI** : PL300 certified, developed dashboards, created DAX metrics,defined filters and selectors. Published applications and updated datasets on PowerBI Service<br>• **PowerQuery** : Data Modeling and transformation via queries in M langage. Managed folders and files under Sharepoint, databases on SQL-Server (on AWS and OVH) and dataflows<br>• **Microsoft 365** : managed user accounts and workspaces<br>• **SQL-Server** : migrated databases, files and SSIS packages and jobs from SQL-Server 2008 to 2017|
+|**1998-2019** | 3 IT Consultancy Agencies: [Cap Gemini](https://www.linkedin.com/company/capgemini/), [Uniware](https://www.linkedin.com/company/uniware-global-services/), [GFI](https://www.linkedin.com/company/gfiworld/)| Polyvalent IT Consultant | • Developped in C, Shell, SQL on Oracle & Sybase databases<br>• Corrective and evolutive maintenance. Coordinated test campaigns|
 
 
       
